@@ -1,0 +1,369 @@
+{
+    "data": [
+        {
+            "type": "default",
+            "questions": [
+                {
+                    "question": "Qual é a capital da Austrália?",
+                    "answers": {
+                        "A": "Sydney",
+                        "B": "Melbourne",
+                        "C": "Canberra",
+                        "D": "Brisbane"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "question": "Quem escreveu a peça de teatro Romeu e Julieta?",
+                    "answers": {
+                        "A": "William Shakespeare",
+                        "B": "Oscar Wilde",
+                        "C": "Arthur Miller",
+                        "D": "Tennessee Williams"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o maior oceano do mundo?",
+                    "answers": {
+                        "A": "Oceano Atlântico",
+                        "B": "Oceano Índico",
+                        "C": "Oceano Antártico",
+                        "D": "Oceano Pacífico"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "question": "Quem pintou a Mona Lisa?",
+                    "answers": {
+                        "A": "Leonardo da Vinci",
+                        "B": "Vincent van Gogh",
+                        "C": "Pablo Picasso",
+                        "D": "Michelangelo"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o país com a maior população do mundo?",
+                    "answers": {
+                        "A": "Índia",
+                        "B": "China",
+                        "C": "Estados Unidos",
+                        "D": "Brasil"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "question": "Qual é o elemento químico mais abundante na crosta terrestre?",
+                    "answers": {
+                        "A": "Oxigênio",
+                        "B": "Silício",
+                        "C": "Alumínio",
+                        "D": "Ferro"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o país com a maior área territorial do mundo?",
+                    "answers": {
+                        "A": "Rússia",
+                        "B": "Canadá",
+                        "C": "China",
+                        "D": "Estados Unidos"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é a capital da Argentina?",
+                    "answers": {
+                        "A": "Buenos Aires",
+                        "B": "Santiago",
+                        "C": "Lima",
+                        "D": "Bogotá"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o nome do criador da Microsoft?",
+                    "answers": {
+                        "A": "Bill Gates",
+                        "B": "Mark Zuckerberg",
+                        "C": "Jeff Bezos",
+                        "D": "Elon Musk"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o planeta mais próximo do Sol?",
+                    "answers": {
+                        "A": "Mercúrio",
+                        "B": "Vênus",
+                        "C": "Terra",
+                        "D": "Marte"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o maior deserto do mundo?",
+                    "answers": {
+                        "A": "Deserto do Saara",
+                        "B": "Deserto de Gobi",
+                        "C": "Deserto de Atacama",
+                        "D": "Deserto da Arábia"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o nome da personagem principal da série de livros 'Harry Potter'?",
+                    "answers": {
+                        "A": "Hermione Granger",
+                        "B": "Ron Weasley",
+                        "C": "Draco Malfoy",
+                        "D": "Harry Potter"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "question": "Qual é o maior mamífero do mundo?",
+                    "answers": {
+                        "A": "Elefante africano",
+                        "B": "Baleia-azul",
+                        "C": "Girafa",
+                        "D": "Rinoceronte"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "question": "Qual é o nome da moeda oficial do Japão?",
+                    "answers": {
+                        "A": "Dólar",
+                        "B": "Euro",
+                        "C": "Libra",
+                        "D": "Iene"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "question": "Qual é a montanha mais alta do mundo?",
+                    "answers": {
+                        "A": "Everest",
+                        "B": "Kilimanjaro",
+                        "C": "Aconcágua",
+                        "D": "Monte Branco"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é a cor primária que resulta da mistura de azul e amarelo?",
+                    "answers": {
+                        "A": "Verde",
+                        "B": "Roxo",
+                        "C": "Laranja",
+                        "D": "Marrom"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o nome da maior floresta tropical do mundo?",
+                    "answers": {
+                        "A": "Floresta Amazônica",
+                        "B": "Floresta de Bialowieza",
+                        "C": "Floresta de Sherwood",
+                        "D": "Floresta Negra"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Quem foi o primeiro homem a pisar na Lua?",
+                    "answers": {
+                        "A": "Neil Armstrong",
+                        "B": "Buzz Aldrin",
+                        "C": "Yuri Gagarin",
+                        "D": "Alan Shepard"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o maior órgão do corpo humano?",
+                    "answers": {
+                        "A": "Cérebro",
+                        "B": "Pulmões",
+                        "C": "Fígado",
+                        "D": "Pele"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "question": "Qual é a data oficial de fundação da cidade de São Paulo?",
+                    "answers": {
+                        "A": "25 de janeiro de 1554",
+                        "B": "7 de setembro de 1822",
+                        "C": "21 de abril de 1792",
+                        "D": "12 de outubro de 1492"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é a cor primária que resulta da mistura de vermelho e amarelo?",
+                    "answers": {
+                        "A": "Azul",
+                        "B": "Verde",
+                        "C": "Roxo",
+                        "D": "Laranja"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "question": "Qual é o nome do cientista que desenvolveu a teoria da relatividade?",
+                    "answers": {
+                        "A": "Isaac Newton",
+                        "B": "Albert Einstein",
+                        "C": "Nikola Tesla",
+                        "D": "Marie Curie"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "question": "Qual é o nome da famosa pintura de Leonardo da Vinci que retrata a Última Ceia?",
+                    "answers": {
+                        "A": "A Noite Estrelada",
+                        "B": "Mona Lisa",
+                        "C": "O Nascimento de Vênus",
+                        "D": "A Última Ceia"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "question": "Qual é o nome do autor do livro '1984'?",
+                    "answers": {
+                        "A": "George Orwell",
+                        "B": "Aldous Huxley",
+                        "C": "Ray Bradbury",
+                        "D": "J.R.R. Tolkien"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o nome da estátua localizada no Rio de Janeiro, Brasil?",
+                    "answers": {
+                        "A": "Eiffel Tower",
+                        "B": "Statue of Liberty",
+                        "C": "Christ the Redeemer",
+                        "D": "Big Ben"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "question": "Qual é o nome do famoso cientista que formulou a teoria da gravidade?",
+                    "answers": {
+                        "A": "Albert Einstein",
+                        "B": "Isaac Newton",
+                        "C": "Stephen Hawking",
+                        "D": "Galileu Galilei"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "question": "Qual é o nome da casa de William Shakespeare em Stratford-upon-Avon?",
+                    "answers": {
+                        "A": "Globe Theatre",
+                        "B": "Windsor Castle",
+                        "C": "Hampton Court Palace",
+                        "D": "Anne Hathaway's Cottage"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "question": "Qual é o nome do maior rio do mundo?",
+                    "answers": {
+                        "A": "Nilo",
+                        "B": "Amazonas",
+                        "C": "Mississippi",
+                        "D": "Yangtzé"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "question": "Qual é o nome do cientista que descobriu a penicilina?",
+                    "answers": {
+                        "A": "Alexander Fleming",
+                        "B": "Louis Pasteur",
+                        "C": "Marie Curie",
+                        "D": "Albert Einstein"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o nome do famoso quadro de Edvard Munch que retrata uma figura com uma expressão angustiada?",
+                    "answers": {
+                        "A": "O Grito",
+                        "B": "A Persistência da Memória",
+                        "C": "A Última Ceia",
+                        "D": "Mona Lisa"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o nome da autora do livro 'Orgulho e Preconceito'?",
+                    "answers": {
+                        "A": "Jane Austen",
+                        "B": "Charlotte Brontë",
+                        "C": "Emily Dickinson",
+                        "D": "Virginia Woolf"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o nome do primeiro presidente dos Estados Unidos?",
+                    "answers": {
+                        "A": "George Washington",
+                        "B": "Abraham Lincoln",
+                        "C": "Thomas Jefferson",
+                        "D": "John F. Kennedy"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o nome do processo de transformação de um material sólido para o estado gasoso sem passar pelo estado líquido?",
+                    "answers": {
+                        "A": "Fusão",
+                        "B": "Evaporação",
+                        "C": "Sublimação",
+                        "D": "Condensação"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "question": "Qual é o nome da famosa escultura de Auguste Rodin que representa um homem pensativo?",
+                    "answers": {
+                        "A": "O Beijo",
+                        "B": "O Pensador",
+                        "C": "Vitória de Samotrácia",
+                        "D": "A Pietà"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "question": "Qual é o nome da primeira mulher a ganhar dois prêmios Nobel em campos diferentes?",
+                    "answers": {
+                        "A": "Marie Curie",
+                        "B": "Rosalind Franklin",
+                        "C": "Ada Lovelace",
+                        "D": "Jane Goodall"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "question": "Qual é o nome da primeira pessoa a pisar na Lua?",
+                    "answers": {
+                        "A": "Neil Armstrong",
+                        "B": "Buzz Aldrin",
+                        "C": "Yuri Gagarin",
+                        "D": "Alan Shepard"
+                    },
+                    "correctAnswer": "A"
+                }
+            ]
+        }
+    ]
+}
