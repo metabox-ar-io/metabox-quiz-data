@@ -1,369 +1,704 @@
 {
-    "data": [
+  "data": [
+    {
+      "type": "default",
+      "questions": [
         {
-            "type": "default",
-            "questions": [
-                {
-                    "question": "Qual é a capital da Austrália?",
-                    "answers": {
-                        "A": "Sydney",
-                        "B": "Melbourne",
-                        "C": "Canberra",
-                        "D": "Brisbane"
-                    },
-                    "correctAnswer": "C"
-                },
-                {
-                    "question": "Quem escreveu a peça de teatro Romeu e Julieta?",
-                    "answers": {
-                        "A": "William Shakespeare",
-                        "B": "Oscar Wilde",
-                        "C": "Arthur Miller",
-                        "D": "Tennessee Williams"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o maior oceano do mundo?",
-                    "answers": {
-                        "A": "Oceano Atlântico",
-                        "B": "Oceano Índico",
-                        "C": "Oceano Antártico",
-                        "D": "Oceano Pacífico"
-                    },
-                    "correctAnswer": "D"
-                },
-                {
-                    "question": "Quem pintou a Mona Lisa?",
-                    "answers": {
-                        "A": "Leonardo da Vinci",
-                        "B": "Vincent van Gogh",
-                        "C": "Pablo Picasso",
-                        "D": "Michelangelo"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o país com a maior população do mundo?",
-                    "answers": {
-                        "A": "Índia",
-                        "B": "China",
-                        "C": "Estados Unidos",
-                        "D": "Brasil"
-                    },
-                    "correctAnswer": "B"
-                },
-                {
-                    "question": "Qual é o elemento químico mais abundante na crosta terrestre?",
-                    "answers": {
-                        "A": "Oxigênio",
-                        "B": "Silício",
-                        "C": "Alumínio",
-                        "D": "Ferro"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o país com a maior área territorial do mundo?",
-                    "answers": {
-                        "A": "Rússia",
-                        "B": "Canadá",
-                        "C": "China",
-                        "D": "Estados Unidos"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é a capital da Argentina?",
-                    "answers": {
-                        "A": "Buenos Aires",
-                        "B": "Santiago",
-                        "C": "Lima",
-                        "D": "Bogotá"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o nome do criador da Microsoft?",
-                    "answers": {
-                        "A": "Bill Gates",
-                        "B": "Mark Zuckerberg",
-                        "C": "Jeff Bezos",
-                        "D": "Elon Musk"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o planeta mais próximo do Sol?",
-                    "answers": {
-                        "A": "Mercúrio",
-                        "B": "Vênus",
-                        "C": "Terra",
-                        "D": "Marte"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o maior deserto do mundo?",
-                    "answers": {
-                        "A": "Deserto do Saara",
-                        "B": "Deserto de Gobi",
-                        "C": "Deserto de Atacama",
-                        "D": "Deserto da Arábia"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o nome da personagem principal da série de livros 'Harry Potter'?",
-                    "answers": {
-                        "A": "Hermione Granger",
-                        "B": "Ron Weasley",
-                        "C": "Draco Malfoy",
-                        "D": "Harry Potter"
-                    },
-                    "correctAnswer": "D"
-                },
-                {
-                    "question": "Qual é o maior mamífero do mundo?",
-                    "answers": {
-                        "A": "Elefante africano",
-                        "B": "Baleia-azul",
-                        "C": "Girafa",
-                        "D": "Rinoceronte"
-                    },
-                    "correctAnswer": "B"
-                },
-                {
-                    "question": "Qual é o nome da moeda oficial do Japão?",
-                    "answers": {
-                        "A": "Dólar",
-                        "B": "Euro",
-                        "C": "Libra",
-                        "D": "Iene"
-                    },
-                    "correctAnswer": "D"
-                },
-                {
-                    "question": "Qual é a montanha mais alta do mundo?",
-                    "answers": {
-                        "A": "Everest",
-                        "B": "Kilimanjaro",
-                        "C": "Aconcágua",
-                        "D": "Monte Branco"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é a cor primária que resulta da mistura de azul e amarelo?",
-                    "answers": {
-                        "A": "Verde",
-                        "B": "Roxo",
-                        "C": "Laranja",
-                        "D": "Marrom"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o nome da maior floresta tropical do mundo?",
-                    "answers": {
-                        "A": "Floresta Amazônica",
-                        "B": "Floresta de Bialowieza",
-                        "C": "Floresta de Sherwood",
-                        "D": "Floresta Negra"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Quem foi o primeiro homem a pisar na Lua?",
-                    "answers": {
-                        "A": "Neil Armstrong",
-                        "B": "Buzz Aldrin",
-                        "C": "Yuri Gagarin",
-                        "D": "Alan Shepard"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o maior órgão do corpo humano?",
-                    "answers": {
-                        "A": "Cérebro",
-                        "B": "Pulmões",
-                        "C": "Fígado",
-                        "D": "Pele"
-                    },
-                    "correctAnswer": "D"
-                },
-                {
-                    "question": "Qual é a data oficial de fundação da cidade de São Paulo?",
-                    "answers": {
-                        "A": "25 de janeiro de 1554",
-                        "B": "7 de setembro de 1822",
-                        "C": "21 de abril de 1792",
-                        "D": "12 de outubro de 1492"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é a cor primária que resulta da mistura de vermelho e amarelo?",
-                    "answers": {
-                        "A": "Azul",
-                        "B": "Verde",
-                        "C": "Roxo",
-                        "D": "Laranja"
-                    },
-                    "correctAnswer": "D"
-                },
-                {
-                    "question": "Qual é o nome do cientista que desenvolveu a teoria da relatividade?",
-                    "answers": {
-                        "A": "Isaac Newton",
-                        "B": "Albert Einstein",
-                        "C": "Nikola Tesla",
-                        "D": "Marie Curie"
-                    },
-                    "correctAnswer": "B"
-                },
-                {
-                    "question": "Qual é o nome da famosa pintura de Leonardo da Vinci que retrata a Última Ceia?",
-                    "answers": {
-                        "A": "A Noite Estrelada",
-                        "B": "Mona Lisa",
-                        "C": "O Nascimento de Vênus",
-                        "D": "A Última Ceia"
-                    },
-                    "correctAnswer": "D"
-                },
-                {
-                    "question": "Qual é o nome do autor do livro '1984'?",
-                    "answers": {
-                        "A": "George Orwell",
-                        "B": "Aldous Huxley",
-                        "C": "Ray Bradbury",
-                        "D": "J.R.R. Tolkien"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o nome da estátua localizada no Rio de Janeiro, Brasil?",
-                    "answers": {
-                        "A": "Eiffel Tower",
-                        "B": "Statue of Liberty",
-                        "C": "Christ the Redeemer",
-                        "D": "Big Ben"
-                    },
-                    "correctAnswer": "C"
-                },
-                {
-                    "question": "Qual é o nome do famoso cientista que formulou a teoria da gravidade?",
-                    "answers": {
-                        "A": "Albert Einstein",
-                        "B": "Isaac Newton",
-                        "C": "Stephen Hawking",
-                        "D": "Galileu Galilei"
-                    },
-                    "correctAnswer": "B"
-                },
-                {
-                    "question": "Qual é o nome da casa de William Shakespeare em Stratford-upon-Avon?",
-                    "answers": {
-                        "A": "Globe Theatre",
-                        "B": "Windsor Castle",
-                        "C": "Hampton Court Palace",
-                        "D": "Anne Hathaway's Cottage"
-                    },
-                    "correctAnswer": "D"
-                },
-                {
-                    "question": "Qual é o nome do maior rio do mundo?",
-                    "answers": {
-                        "A": "Nilo",
-                        "B": "Amazonas",
-                        "C": "Mississippi",
-                        "D": "Yangtzé"
-                    },
-                    "correctAnswer": "B"
-                },
-                {
-                    "question": "Qual é o nome do cientista que descobriu a penicilina?",
-                    "answers": {
-                        "A": "Alexander Fleming",
-                        "B": "Louis Pasteur",
-                        "C": "Marie Curie",
-                        "D": "Albert Einstein"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o nome do famoso quadro de Edvard Munch que retrata uma figura com uma expressão angustiada?",
-                    "answers": {
-                        "A": "O Grito",
-                        "B": "A Persistência da Memória",
-                        "C": "A Última Ceia",
-                        "D": "Mona Lisa"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o nome da autora do livro 'Orgulho e Preconceito'?",
-                    "answers": {
-                        "A": "Jane Austen",
-                        "B": "Charlotte Brontë",
-                        "C": "Emily Dickinson",
-                        "D": "Virginia Woolf"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o nome do primeiro presidente dos Estados Unidos?",
-                    "answers": {
-                        "A": "George Washington",
-                        "B": "Abraham Lincoln",
-                        "C": "Thomas Jefferson",
-                        "D": "John F. Kennedy"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o nome do processo de transformação de um material sólido para o estado gasoso sem passar pelo estado líquido?",
-                    "answers": {
-                        "A": "Fusão",
-                        "B": "Evaporação",
-                        "C": "Sublimação",
-                        "D": "Condensação"
-                    },
-                    "correctAnswer": "C"
-                },
-                {
-                    "question": "Qual é o nome da famosa escultura de Auguste Rodin que representa um homem pensativo?",
-                    "answers": {
-                        "A": "O Beijo",
-                        "B": "O Pensador",
-                        "C": "Vitória de Samotrácia",
-                        "D": "A Pietà"
-                    },
-                    "correctAnswer": "B"
-                },
-                {
-                    "question": "Qual é o nome da primeira mulher a ganhar dois prêmios Nobel em campos diferentes?",
-                    "answers": {
-                        "A": "Marie Curie",
-                        "B": "Rosalind Franklin",
-                        "C": "Ada Lovelace",
-                        "D": "Jane Goodall"
-                    },
-                    "correctAnswer": "A"
-                },
-                {
-                    "question": "Qual é o nome da primeira pessoa a pisar na Lua?",
-                    "answers": {
-                        "A": "Neil Armstrong",
-                        "B": "Buzz Aldrin",
-                        "C": "Yuri Gagarin",
-                        "D": "Alan Shepard"
-                    },
-                    "correctAnswer": "A"
-                }
-            ]
+          "question": "Qual é a capital da Austrália?",
+          "answers": {
+            "A": "Sydney",
+            "B": "Melbourne",
+            "C": "Canberra",
+            "D": "Brisbane"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Quem escreveu a peça de teatro Romeu e Julieta?",
+          "answers": {
+            "A": "William Shakespeare",
+            "B": "Oscar Wilde",
+            "C": "Arthur Miller",
+            "D": "Tennessee Williams"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o maior oceano do mundo?",
+          "answers": {
+            "A": "Oceano Atlântico",
+            "B": "Oceano Índico",
+            "C": "Oceano Antártico",
+            "D": "Oceano Pacífico"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Quem pintou a Mona Lisa?",
+          "answers": {
+            "A": "Leonardo da Vinci",
+            "B": "Vincent van Gogh",
+            "C": "Pablo Picasso",
+            "D": "Michelangelo"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o país com a maior população do mundo?",
+          "answers": {
+            "A": "Índia",
+            "B": "China",
+            "C": "Estados Unidos",
+            "D": "Brasil"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o elemento químico mais abundante na crosta terrestre?",
+          "answers": {
+            "A": "Oxigênio",
+            "B": "Silício",
+            "C": "Alumínio",
+            "D": "Ferro"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o país com a maior área territorial do mundo?",
+          "answers": {
+            "A": "Rússia",
+            "B": "Canadá",
+            "C": "China",
+            "D": "Estados Unidos"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é a capital da Argentina?",
+          "answers": {
+            "A": "Buenos Aires",
+            "B": "Santiago",
+            "C": "Lima",
+            "D": "Bogotá"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome do criador da Microsoft?",
+          "answers": {
+            "A": "Bill Gates",
+            "B": "Mark Zuckerberg",
+            "C": "Jeff Bezos",
+            "D": "Elon Musk"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o planeta mais próximo do Sol?",
+          "answers": {
+            "A": "Mercúrio",
+            "B": "Vênus",
+            "C": "Terra",
+            "D": "Marte"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o maior deserto do mundo?",
+          "answers": {
+            "A": "Deserto do Saara",
+            "B": "Deserto de Gobi",
+            "C": "Deserto de Atacama",
+            "D": "Deserto da Arábia"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome da personagem principal da série de livros 'Harry Potter'?",
+          "answers": {
+            "A": "Hermione Granger",
+            "B": "Ron Weasley",
+            "C": "Draco Malfoy",
+            "D": "Harry Potter"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é o maior mamífero do mundo?",
+          "answers": {
+            "A": "Elefante africano",
+            "B": "Baleia-azul",
+            "C": "Girafa",
+            "D": "Rinoceronte"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o nome da moeda oficial do Japão?",
+          "answers": {
+            "A": "Dólar",
+            "B": "Euro",
+            "C": "Libra",
+            "D": "Iene"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é a montanha mais alta do mundo?",
+          "answers": {
+            "A": "Everest",
+            "B": "Kilimanjaro",
+            "C": "Aconcágua",
+            "D": "Monte Branco"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é a cor primária que resulta da mistura de azul e amarelo?",
+          "answers": {
+            "A": "Verde",
+            "B": "Roxo",
+            "C": "Laranja",
+            "D": "Marrom"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome da maior floresta tropical do mundo?",
+          "answers": {
+            "A": "Floresta Amazônica",
+            "B": "Floresta de Bialowieza",
+            "C": "Floresta de Sherwood",
+            "D": "Floresta Negra"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quem foi o primeiro homem a pisar na Lua?",
+          "answers": {
+            "A": "Neil Armstrong",
+            "B": "Buzz Aldrin",
+            "C": "Yuri Gagarin",
+            "D": "Alan Shepard"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o maior órgão do corpo humano?",
+          "answers": {
+            "A": "Cérebro",
+            "B": "Pulmões",
+            "C": "Fígado",
+            "D": "Pele"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é a data oficial de fundação da cidade de São Paulo?",
+          "answers": {
+            "A": "25 de janeiro de 1554",
+            "B": "7 de setembro de 1822",
+            "C": "21 de abril de 1792",
+            "D": "12 de outubro de 1492"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é a cor primária que resulta da mistura de vermelho e amarelo?",
+          "answers": {
+            "A": "Azul",
+            "B": "Verde",
+            "C": "Roxo",
+            "D": "Laranja"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é o nome do cientista que desenvolveu a teoria da relatividade?",
+          "answers": {
+            "A": "Isaac Newton",
+            "B": "Albert Einstein",
+            "C": "Nikola Tesla",
+            "D": "Marie Curie"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o nome da famosa pintura de Leonardo da Vinci que retrata a Última Ceia?",
+          "answers": {
+            "A": "A Noite Estrelada",
+            "B": "Mona Lisa",
+            "C": "O Nascimento de Vênus",
+            "D": "A Última Ceia"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é o nome do autor do livro '1984'?",
+          "answers": {
+            "A": "George Orwell",
+            "B": "Aldous Huxley",
+            "C": "Ray Bradbury",
+            "D": "J.R.R. Tolkien"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome da estátua localizada no Rio de Janeiro, Brasil?",
+          "answers": {
+            "A": "Eiffel Tower",
+            "B": "Statue of Liberty",
+            "C": "Christ the Redeemer",
+            "D": "Big Ben"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual é o nome do famoso cientista que formulou a teoria da gravidade?",
+          "answers": {
+            "A": "Albert Einstein",
+            "B": "Isaac Newton",
+            "C": "Stephen Hawking",
+            "D": "Galileu Galilei"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o nome da casa de William Shakespeare em Stratford-upon-Avon?",
+          "answers": {
+            "A": "Globe Theatre",
+            "B": "Windsor Castle",
+            "C": "Hampton Court Palace",
+            "D": "Anne Hathaway's Cottage"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é o nome do maior rio do mundo?",
+          "answers": {
+            "A": "Nilo",
+            "B": "Amazonas",
+            "C": "Mississippi",
+            "D": "Yangtzé"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o nome do cientista que descobriu a penicilina?",
+          "answers": {
+            "A": "Alexander Fleming",
+            "B": "Louis Pasteur",
+            "C": "Marie Curie",
+            "D": "Albert Einstein"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome do famoso quadro de Edvard Munch que retrata uma figura com uma expressão angustiada?",
+          "answers": {
+            "A": "O Grito",
+            "B": "A Persistência da Memória",
+            "C": "A Última Ceia",
+            "D": "Mona Lisa"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome da autora do livro 'Orgulho e Preconceito'?",
+          "answers": {
+            "A": "Jane Austen",
+            "B": "Charlotte Brontë",
+            "C": "Emily Dickinson",
+            "D": "Virginia Woolf"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome do primeiro presidente dos Estados Unidos?",
+          "answers": {
+            "A": "George Washington",
+            "B": "Abraham Lincoln",
+            "C": "Thomas Jefferson",
+            "D": "John F. Kennedy"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome do processo de transformação de um material sólido para o estado gasoso sem passar pelo estado líquido?",
+          "answers": {
+            "A": "Fusão",
+            "B": "Evaporação",
+            "C": "Sublimação",
+            "D": "Condensação"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual é o nome da famosa escultura de Auguste Rodin que representa um homem pensativo?",
+          "answers": {
+            "A": "O Beijo",
+            "B": "O Pensador",
+            "C": "Vitória de Samotrácia",
+            "D": "A Pietà"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o nome da primeira mulher a ganhar dois prêmios Nobel em campos diferentes?",
+          "answers": {
+            "A": "Marie Curie",
+            "B": "Rosalind Franklin",
+            "C": "Ada Lovelace",
+            "D": "Jane Goodall"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome da primeira pessoa a pisar na Lua?",
+          "answers": {
+            "A": "Neil Armstrong",
+            "B": "Buzz Aldrin",
+            "C": "Yuri Gagarin",
+            "D": "Alan Shepard"
+          },
+          "correctAnswer": "A"
         }
-    ]
+      ]
+    },
+    {
+      "type": "explo-criat",
+      "questions": [
+        {
+          "question": "Em que ano foi lançado o primeiro filme do Harry Potter?",
+          "answers": {
+            "A": "2001",
+            "B": "2000",
+            "C": "2003",
+            "D": "2004"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual o filme da Marvel com maior bilheteria?",
+          "answers": {
+            "A": "Vingadores Ultimato (2019)",
+            "B": "Vingadores Guerra Infinita (2018)",
+            "C": "Home Aranha: Sem volta para casa",
+            "D": "Homem de Ferro: 2"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "The Last of Us: Part 2",
+          "answers": {
+            "A": "Final Fantasy VII Remake",
+            "B": "Ghost of Tsushima",
+            "C": "Final Fantasy VII Remake",
+            "D": "Animal Crossing"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quando o Super Mario Bros foi lançado?",
+          "answers": {
+            "A": "1985",
+            "B": "1986",
+            "C": "1993",
+            "D": "1989"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual o nome do Mário Verde?",
+          "answers": {
+            "A": "Luigi",
+            "B": "Lugimi",
+            "C": "Lugini",
+            "D": "Yoshi"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual anime tem o personagem Anko?",
+          "answers": {
+            "A": "Naruto",
+            "B": "Pokémon",
+            "C": "Demon Slayer",
+            "D": "One Piece"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual o nome do criador da saga o Senhor dos Anéis?",
+          "answers": {
+            "A": "JRR Tolkien",
+            "B": "Steven Spielberg",
+            "C": "TK Tolkien",
+            "D": "James Cameron"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quantas temporadas tem a série The Flash?",
+          "answers": {
+            "A": "9",
+            "B": "5",
+            "C": "10",
+            "D": "8"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Quantos fantasmas existem no jogo 'Pac Man'?",
+          "answers": {
+            "A": "4",
+            "B": "1",
+            "C": "2",
+            "D": "6"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual foi o motivo de Goku se transformar em Super Saiyajin?",
+          "answers": {
+            "A": "Morte do Kuririn",
+            "B": "Morte do Gohan",
+            "C": "Morte do Píiccolo",
+            "D": "Morte do Vegeta"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual recompensa tem o Luffy atualmente?",
+          "answers": {
+            "A": "3.000.000.000",
+            "B": "300.000.000.000",
+            "C": "320.000.000",
+            "D": "300.000"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quando One Piece foi lançado?",
+          "answers": {
+            "A": "1999",
+            "B": "1997",
+            "C": "2001",
+            "D": "1998"
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "type": "coca-cola",
+      "questions": [
+        {
+          "question": "Em que ano foi lançada a Coca-Cola pela primeira vez?",
+          "answers": {
+            "A": "1886",
+            "B": "1900",
+            "C": "1923",
+            "D": "1950"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o ingrediente principal da Coca-Cola?",
+          "answers": {
+            "A": "Água",
+            "B": "Cocaína",
+            "C": "Açúcar",
+            "D": "Café"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual é a cor original da Coca-Cola?",
+          "answers": {
+            "A": "Vermelho",
+            "B": "Azul",
+            "C": "Verde",
+            "D": "Amarelo"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quantos países atualmente vendem Coca-Cola?",
+          "answers": {
+            "A": "Mais de 200",
+            "B": "Mais de 150",
+            "C": "Mais de 100",
+            "D": "Mais de 250"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o slogan famoso da Coca-Cola?",
+          "answers": {
+            "A": "\"Abra a felicidade\"",
+            "B": "\"O sabor que refresca\"",
+            "C": "\"A bebida dos campeões\"",
+            "D": "\"A escolha da nova geração\""
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual foi a primeira embalagem de Coca-Cola?",
+          "answers": {
+            "A": "Garrafa de vidro",
+            "B": "Lata de alumínio",
+            "C": "Garrafa de plástico",
+            "D": "Sachê"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é a marca de refrigerante mais vendida do mundo?",
+          "answers": {
+            "A": "Coca-Cola",
+            "B": "Pepsi",
+            "C": "Fanta",
+            "D": "Sprite"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quantos mililitros tem uma lata de Coca-Cola padrão?",
+          "answers": {
+            "A": "330 ml",
+            "B": "200 ml",
+            "C": "500 ml",
+            "D": "750 ml"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual foi o primeiro país fora dos Estados Unidos a produzir Coca-Cola?",
+          "answers": {
+            "A": "México",
+            "B": "Canadá",
+            "C": "Cuba",
+            "D": "Brasil"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome do mascote da Coca-Cola?",
+          "answers": {
+            "A": "Polar Bear",
+            "B": "Buddy",
+            "C": "Tony",
+            "D": "Sparky"
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "type": "monster",
+      "questions": [
+        {
+          "question": "Qual é o ano de fundação da Monster Energy?",
+          "answers": {
+            "A": "2002",
+            "B": "1990",
+            "C": "2005",
+            "D": "2010"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o slogan da Monster Energy?",
+          "answers": {
+            "A": "Unleash the Beast",
+            "B": "Power Up!",
+            "C": "Fuel your Day",
+            "D": "Energize your Life"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é a bebida energética mais vendida nos Estados Unidos?",
+          "answers": {
+            "A": "Monster Energy",
+            "B": "Red Bull",
+            "C": "Rockstar Energy",
+            "D": "NOS Energy"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quem é o fundador da Monster Energy?",
+          "answers": {
+            "A": "Rodney Sacks e Hilton Schlosberg",
+            "B": "Dietrich Mateschitz",
+            "C": "Russell Weiner",
+            "D": "Felix H. Dennis"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é a cor característica da lata de Monster Energy?",
+          "answers": {
+            "A": "Preto",
+            "B": "Vermelho",
+            "C": "Azul",
+            "D": "Verde"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "A Monster Energy patrocina qual esporte de ação?",
+          "answers": {
+            "A": "Motocross",
+            "B": "Fórmula 1",
+            "C": "Golfe",
+            "D": "Esqui alpino"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é a principal fonte de cafeína na Monster Energy?",
+          "answers": {
+            "A": "Cafeína anidra",
+            "B": "Chá verde",
+            "C": "Grãos de café torrados",
+            "D": "Extrato de guaraná"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o nome do logotipo da Monster Energy?",
+          "answers": {
+            "A": "M claw",
+            "B": "Green Beast",
+            "C": "Monster Man",
+            "D": "Energy X"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quantos sabores diferentes de Monster Energy existem atualmente?",
+          "answers": {
+            "A": "Mais de 30",
+            "B": "Mais de 50",
+            "C": "Mais de 70",
+            "D": "Mais de 90"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é a empresa-mãe da Monster Energy?",
+          "answers": {
+            "A": "Monster Beverage Corporation",
+            "B": "Red Bull GmbH",
+            "C": "PepsiCo",
+            "D": "The Coca-Cola Company"
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    }
+  ]
 }
