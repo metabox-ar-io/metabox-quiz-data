@@ -699,6 +699,106 @@
           "correctAnswer": "A"
         }
       ]
+    },
+    {
+      "type": "game-jam-plus",
+      "questions": [
+        {
+          "question": "Quantos participantes a Game Jam+ teve em toda a sua existência?",
+          "answers": {
+            "A": "5000",
+            "B": "500",
+            "C": "3500",
+            "D": "200"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quantos países a Gam Jam Plus já alcançou?",
+          "answers": {
+            "A": "5",
+            "B": "30",
+            "C": "10",
+            "D": "20"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "A primeira cidade sede da Game Jam Plus foi?",
+          "answers": {
+            "A": "São Paulo",
+            "B": "Cidade do Cabo",
+            "C": "Rio de Janeiro",
+            "D": "Varsóvia"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Quando foi a primeira edição da Game Jam Plus?",
+          "answers": {
+            "A": "2015",
+            "B": "2014",
+            "C": "2020",
+            "D": "2016"
+          },
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "type": "riotur",
+      "questions": [
+        {
+          "question": "Qual é o nome da famosa praia do Rio de Janeiro que fica entre o Morro Dois Irmãos e o Arpoador?",
+          "answers": {
+            "A": "Praia de Copacabana",
+            "B": "Praia de Ipanema",
+            "C": "Praia do Leblon",
+            "D": "Praia do Flamengo"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual é o apelido popular do Rio de Janeiro?",
+          "answers": {
+            "A": "Terra do Samba",
+            "B": "Cidade Maravilhosa",
+            "C": "Capital do Carnaval",
+            "D": "Cidade dos Cristos"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o símbolo mais famoso do Rio de Janeiro?",
+          "answers": {
+            "A": "Pão de Açúcar",
+            "B": "Arcos da Lapa",
+            "C": "Cristo Redentor",
+            "D": "Maracanã"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual é o nome do estádio de futebol mais famoso do Rio de Janeiro?",
+          "answers": {
+            "A": "São Januário",
+            "B": "Engenhão",
+            "C": "Arena da Ilha",
+            "D": "Maracanã"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é a maior festa popular do Rio de Janeiro?",
+          "answers": {
+            "A": "Carnaval",
+            "B": "Reveillon",
+            "C": "Festa Junina",
+            "D": "Oktoberfest"
+          },
+          "correctAnswer": "A"
+        }
+      ]
     }
   ]
 }
