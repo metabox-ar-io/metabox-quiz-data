@@ -799,6 +799,131 @@
           "correctAnswer": "A"
         }
       ]
+    },
+    {
+      "type": "assespro-quiz",
+      "questions": [
+        {
+          "question": "Você sabe em qual região surgiu o termo de venture capitalist?",
+          "answers": {
+            "A": "New York/New Jersey",
+            "B": "Greater Los Angeles",
+            "C": "Vale do Silício",
+            "D": "Tel Aviv"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Quem foi o idealizador do termo “MVP – Minimum Viable Product”?",
+          "answers": {
+            "A": "Eric Ries",
+            "B": "Steve Blank",
+            "C": "Alex Ostelwalder",
+            "D": "Tim Draper"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quem alcunhou a celebre frase “Fail fast” (erre rápido)?",
+          "answers": {
+            "A": "Bill Gates",
+            "B": "Steve Jobs",
+            "C": "Eric Ries",
+            "D": "Steve Wozniak"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual foi a primeira entidade empresarial de tecnologia com foco em inovação no Brasil?",
+          "answers": {
+            "A": "ABES",
+            "B": "Brasscom",
+            "C": "ABInfo",
+            "D": "Assespro"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "São consideradas formas de funding das startups em seu processo de evolução as seguintes opções:",
+          "answers": {
+            "A": "Founders, Angel investments, Crowdfunding, Seed money",
+            "B": "Founders, MVP, Angel investments, Seed",
+            "C": "Family & friends, Banks, Validate, venture capital",
+            "D": "Family & friends, Launch, Seed money, Venture capital"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual Segundo o manifesto de desenvolvimento ágil tem-se:",
+          "answers": {
+            "A": "Indivíduos e interações acima de processos e ferramentas",
+            "B": "Relacionamento colaborativo com o cliente acima de processos e ferramentas",
+            "C": "Responder às mudanças acima de plano pós-estabelecido",
+            "D": "Relacionamento colaborativo com o cliente acima de seguir um plano rígido"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Dentro dos aspectos que bem definem o Vale do Silício pode-se destacar os abaixo, exceto?",
+          "answers": {
+            "A": "a concretização de uma cultura de empreendedorismo",
+            "B": "o essencial é tentar, uma vez que quase todos os empreendedores de sucesso erraram um tanto antes de acertar",
+            "C": "boa parte dos investidores são os próprios empreendedores",
+            "D": "poucos empreendimentos requerem um investimento inicial"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Ao se medir a viralização do produto de uma startup, qual das opções abaixo seria a melhor situação para o empreendimento?",
+          "answers": {
+            "A": "A maioria dos clientes vem de ações de prospecção externa (outbound cold calling)",
+            "B": "Grande maioria dos clientes vem de indicações, recomendações, e ferramentas de inbound",
+            "C": "Parte dos clientes vem de ações de prospecção externa (outbound cold calling)",
+            "D": "Parte dos clientes vem de referência e indicação"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Estratégia de divulgação e engajamento que premia o usuário por sugestões que melhorem os serviços da empresa:",
+          "answers": {
+            "A": "crowdfunding",
+            "B": "concorrência aberta",
+            "C": "cloud labor",
+            "D": "crowdsourcing"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "São startups focadas em sustentabilidade e sobrevivência, se preocupando com custos e cobrar adequadamente os clientes:",
+          "answers": {
+            "A": "Camelo",
+            "B": "Dragão",
+            "C": "Unicórnio",
+            "D": "Gavião"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "No Brasil , considerando as micro e pequenas empresas, o registro de uma marca deve ser realizada no seguinte órgão?",
+          "answers": {
+            "A": "ABPI",
+            "B": "INPI",
+            "C": "ABDI",
+            "D": "Sebrae"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual a importância do associativismo para o crescimento do empreendedorismo e inovação de ecossistemas?",
+          "answers": {
+            "A": "Muito importante",
+            "B": "Médio",
+            "C": "Indiferente",
+            "D": "Imperativo"
+          },
+          "correctAnswer": "D"
+        }
+      ]
     }
   ]
 }
