@@ -922,6 +922,36 @@
             "D": "Imperativo"
           },
           "correctAnswer": "D"
+        },
+        {
+          "question": "Qual a região mais reconhecida mundialmente como um epicentro de inovação?",
+          "answers": {
+            "A": "Vale do Silício ",
+            "B": "Boston",
+            "C": "Tokyo",
+            "D": "Shangai"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual foi o personagem que surgiu durante a bolha da internet no ano 2000?",
+          "answers": {
+            "A": "Venture Capitalist",
+            "B": "Investidor Anjo",
+            "C": "Mentor",
+            "D": "CIO as Service"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual a entidade empresarial do setor de tecnologia mais inovadora há mais tempo?",
+          "answers": {
+            "A": "ABMEN",
+            "B": "Abranet",
+            "C": "Assespro Rio de Janeiro",
+            "D": "Fenainfo"
+          },
+          "correctAnswer": "C"
         }
       ]
     }
