@@ -954,6 +954,472 @@
           "correctAnswer": "C"
         }
       ]
-    }
+    },
+    {
+      "type": "radisson_hotel",
+      "questions":  [ 
+        {
+          "question": "What is the main attraction near the hotel?",
+          "answers": {
+            "A": "Copacabana Beach",
+            "B": "Sugarloaf Mountain",
+            "C": "Arpoador",
+            "D": "Pedra Bonita"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "What characterizes Barra da Tijuca?",
+          "answers": {
+            "A": "Bohemian neighborhood",
+            "B": "Busy beaches",
+            "C": "Historical center",
+            "D": "Expansive beaches"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "What is the most common means of transportation in the area?",
+          "answers": {
+            "A": "Metro",
+            "B": "BRT (Bus Rapid Transit)",
+            "C": "Tax",
+            "D": "Cable car"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the hotel's distinctive feature?",
+          "answers": {
+            "A": "View of Sugarloaf Mountain",
+            "B": "Water Park",
+            "C": "Golf courses",
+            "D": "Pedra da Gávea"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "In which year did the Radisson Hotel win the 'Travellers’ Choice' Safety Protocol?",
+          "answers": {
+            "A": "2000",
+            "B": "2022",
+            "C": "2010",
+            "D": "2019"
+          },
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "type":"pedra_bonita",
+      "questions":  [ 
+        {
+          "question": "What is the altitude of Pedra Bonita?",
+          "answers": {
+            "A": "600 meters",
+            "B": "800 meters",
+            "C": "900 meters",
+            "D": "693 meters"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "What can you appreciate from the top of Pedra Bonita?",
+          "answers": {
+            "A": "View of Ipanema Beach",
+            "B": "360-degree view of Rio de Janeiro",
+            "C": "View of Christ the Redeemer",
+            "D": "View of Guanabara Bay"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the most common trail to reach the top?",
+          "answers": {
+            "A": "Morro da Urca Trail",
+            "B": "Pico da Tijuca Trail",
+            "C": "Pedra da Gávea Trail",
+            "D": "Pico do Papagaio Trail"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Who is responsible for the conservation of the area?",
+          "answers": {
+            "A": "IBAMA",
+            "B": "INEA (State Institute of the Environment)",
+            "C": "ICMBio (Chico Mendes Institute)",
+            "D": "UNESCO"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What characterizes the flora on Pedra Bonita?",
+          "answers": {
+            "A": "Atlantic Forest vegetation",
+            "B": "Amazon Rainforest vegetation",
+            "C": "Cerrado vegetation",
+            "D": "Pine Forests"
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "type": "ipanema_boardwalk",
+      "questions":  [  
+        {
+          "question": "Who composed the song 'Garota de Ipanema'?",
+          "answers": {
+            "A": "Gilberto Gil and Caetano Veloso",
+            "B": "Vinícius de Moraes and Toquinho",
+            "C": "Tom Jobim and Vinícius de Moraes",
+            "D": "Jorge Ben Jor and Tim Maia"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What is the total length of the Ipanema Boardwalk?",
+          "answers": {
+            "A": "3.5 km",
+            "B": "2.6 km",
+            "C": "5 km",
+            "D": "1.6 km"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the meaning of the word 'Ipanema'?",
+          "answers": {
+            "A": "Beautiful place",
+            "B": "Dangerous waters",
+            "C": "High hill",
+            "D": "Quiet beach"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "In what year was the song 'Garota de Ipanema' released?",
+          "answers": {
+            "A": "1962",
+            "B": "1975",
+            "C": "1958",
+            "D": "1980"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Besides bars and restaurants, what else can you find on the boardwalk?",
+          "answers": {
+            "A": "Sports courts",
+            "B": "Bike lanes",
+            "C": "Playgrounds",
+            "D": "Surf shops and kiosks"
+          },
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "type": "arpoador",
+      "questions":  [
+        {
+        "question": "What is the origin of the name 'Arpoador'?",
+          "answers": {
+            "A": "Whaling with harpoons",
+            "B": "Harpoons used by native tribes",
+            "C": "Harpoons used by pirates",
+            "D": "Harpoons for fish hunting"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is famous to watch at Arpoador?",
+          "answers": {
+            "A": "Sunrise",
+            "B": "Sunset",
+            "C": "Meteor showers",
+            "D": "Surfing competitions"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the panoramic view from Arpoador?",
+          "answers": {
+            "A": "Christ the Redeemer, Maracanã, and Botafogo",
+            "B": "Copacabana, Ipanema, and Vidigal Beaches",          
+            "C": "Sugarloaf Mountain and Guanabara Bay",
+            "D": "Niterói and Museum of Tomorrow"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "How many beaches can you see from Arpoador?",
+          "answers": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Who is the author of the Ipanema boardwalk?",
+          "answers": {
+            "A": "Oscar Niemeyer",
+            "B": "Roberto Burle Marx",
+            "C": "Lúcio Costa",
+            "D": "Renato Primavera Marinho"
+          },
+          "correctAnswer": "D"
+        }
+      ]
+    },
+    {
+      "type":"hippie_fair",
+      "questions":  [ 
+        {
+        "question": "What can you find at this market?",
+          "answers": {
+            "A": "Handicrafts, fashion, and design",
+            "B": "Electronics and technology",
+            "C": "Gourmet products",
+            "D": "Sporting goods"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "On which day of the week does the market take place?",
+          "answers": {
+            "A": "Sunday",
+            "B": "Monday",
+            "C": "Saturday",
+            "D": "Wednesday"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Who organizes the Hippie Fair?",
+          "answers": {
+            "A": "Rio de Janeiro City Hall",
+            "B": "Local artists and creative entrepreneurs",
+            "C": "Rio de Janeiro State Government",
+            "D": "Multinational companies"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the main focus of the crafts at the fair?",
+          "answers": {
+            "A": "Unique and personalized pieces",
+            "B": "International handicrafts",
+            "C": "Mass-produced products",
+            "D": "Abstract art"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is the typical food of the fair?",
+          "answers": {
+            "A": "Barbecue",
+            "B": "Vegan and vegetarian food",
+            "C": "Feijoada",
+            "D": "Sushi"
+          },
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "type":"praia_vermelha",
+      "questions":  [
+        {
+          "question": "What is the origin of the name 'Praia Vermelha'?",
+          "answers": {
+            "A": "Color of sand crystals",
+            "B": "Presença de algas vermelhas",
+            "C": "Coral vermelho",
+            "D": "Tintura natural"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What makes the landscape of Praia Vermelha unique?",
+          "answers": {
+            "A": "Sugarloaf Mountain in the background",
+            "B": "Ilha Grande ao horizonte",
+            "C": "Pedras vermelhas na água",
+            "D": "Pão de Açúcar ao fundo"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "What is the historical significance of this beach?",
+          "answers": {
+            "A": "Location of indigenous rituals",
+            "B": "Porto de desembarque de escravos",
+            "C": "Ponto de encontro de artistas",
+            "D": "Repressão ao movimento estudantil"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Who is the sculptor of the Frédéric François Chopin statue?",
+          "answers": {
+            "A": "Auguste Rodin",
+            "B": "Victor Brecheret",
+            "C": "August Zamoyski",
+            "D": "Alfredo Ceschiatti"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What activities can be done at Praia Vermelha?",
+          "answers": {
+            "A": "Swimming and climbing",
+            "B": "Windsurfing and diving",
+            "C": "Beach volleyball and paragliding",
+            "D": "Fishing and yoga"
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "type":"sugarloaf_mountain_cable_car",
+      "questions":  [
+      {
+       "question": "When was the Bondinho do Pão de Açúcar inaugurated?",
+          "answers": {
+            "A": "1905",
+            "B": "1912",
+            "C": "1925",
+            "D": "1930"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the height of Sugarloaf Mountain?",
+          "answers": {
+            "A": "365 meters",
+            "B": "391 meters",
+            "C": "420 meters",
+            "D": "450 meters"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Who designed the Bondinho?",
+          "answers": {
+            "A": "Gustave Eiffel",
+            "B": "Santos Dumont",
+            "C": "Augusto Ferreira Ramos",
+            "D": "Oscar Niemeyer"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "What can you see from the top of Sugarloaf Mountain?",
+          "answers": {
+            "A": "Panoramic view of Guanabara Bay",
+            "B": "Pico da Tijuca and Christ the Redeemer",
+            "C": "Tijuca Forest and Rodrigo de Freitas Lagoon",
+            "D": "Copacabana and Ipanema Beaches"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is the maximum capacity of the Bondinho?",
+          "answers": {
+            "A": "50 people",
+            "B": "65 people",
+            "C": "80 people",
+            "D": "100 people"
+          },
+          "correctAnswer": "B"
+        }
+      ]
+    },
+    {
+      "type":"urca_wall",
+      "questions":  [ 
+        {
+          "question": "What are the main activities at Mureta?",
+          "answers": {
+            "A": "Walks and Bars",
+            "B": "Shopping and street shows",
+            "C": "Surfing and diving",
+            "D": "Skating and paragliding"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "What is the view from Mureta da Urca?",
+          "answers": {
+            "A": "Maracanã and Lapa",
+            "B": "Sugarloaf Mountain and Christ the Redeemer",
+            "C": "Copacabana and Ipanema",
+            "D": "Tijuca Forest and Rodrigo de Freitas Lagoon"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "What is the meaning of the name 'Urca'?",
+          "answers": {
+            "A": "Indigenous word meaning 'dark hole'",
+            "B": "Nautical term meaning 'safe harbor'",
+            "C": "Name of a type of vessel",
+            "D": "Reference to an indigenous tribe"
+          },
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "type":"return_to_radisson_barra_hotel",
+      "questions":  [
+        {
+          "question": "What is Onspot's motto?",
+          "answers": {
+            "A": "Collect Memories Not Hassles",
+            "B": "Preserve Moments Not Hassles",
+            "C": "Collect Memories Not Troubles",
+            "D": "Who does not collect will face hassles"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Onspot trailblazers since?",
+          "answers": {
+            "A": "2007",
+            "B": "2017",
+            "C": "2013",
+            "D": "2003"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Onspot is proud of pioneering the concept of?",
+          "answers": {
+            "A": "Assistance-as-a-Service (AAAS)",
+            "B": "Support-as-a-Service (SAAS)",
+            "C": "Platform-as-a-Service (PAAS)",
+            "D": "Infrastructure-as-a-Service (IAAS)"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Where was Onspot born, as a POC?",
+          "answers": {
+            "A": "Redondo Beach",
+            "B": "Palm Springs",
+            "C": "San Francisco",
+            "D": "Rio de Janeiro"
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {}
   ]
 }
