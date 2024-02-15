@@ -1420,6 +1420,21 @@
         }
       ]
     },
+    {
+      "type":"niver_qualjogada",
+      "questions":  [
+        {
+          "question": "Qual a cor da logo do Qual é a Jogada?",
+          "answers": {
+            "A": "Roxo",
+            "B": "Rosa",
+            "C": "Azul Marinho",
+            "D": "Vermelho"
+          },
+          "correctAnswer": "A"
+        }
+      ]
+    },
     {}
   ]
 }
