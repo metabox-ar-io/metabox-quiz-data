@@ -1428,13 +1428,745 @@
           "answers": {
             "A": "Roxo",
             "B": "Rosa",
-            "C": "Azul Marinho",
+            "C": "Azul marinho",
+            "D": "Pink"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual a cor da blusa da Rosana no gameplay do Scooby Doo?",
+          "answers": {
+            "A": "Rosa",
+            "B": "Roxa",
+            "C": "Branca",
+            "D": "Preta"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Você segue o Qual é a Jogada no Instagram?",
+          "answers": {
+            "A": "Sim",
+            "B": "Não",
+            "C": "Vou seguir",
+            "D": "Depois eu vou"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual a cor da luz no cenário da Rosana?",
+          "answers": {
+            "A": "Azul",
+            "B": "Roxa",
+            "C": "Rosa",
             "D": "Vermelho"
           },
           "correctAnswer": "A"
+        },
+        {
+          "question": "Quem é a patrocinadora oficial do Qual é a Jogada?",
+          "answers": {
+            "A": "bee legacy publishing",
+            "B": "Good legacy publishing",
+            "C": "Games legacy publishing",
+            "D": "Board legacy publishing"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quem ganhou a gameplay Master Entretenimento?",
+          "answers": {
+            "A": "Denis",
+            "B": "Rosana",
+            "C": "Os dois",
+            "D": "Ninguém"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quem ganhou o gameplay especial de páscoa?",
+          "answers": {
+            "A": "Denis",
+            "B": "Rosana",
+            "C": "Os dois",
+            "D": "Ninguém"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual frase a Rosana usa para começar os vídeos?",
+          "answers": {
+            "A": "oi minha gente",
+            "B": "oi meu povo",
+            "C": "oi pessoal",
+            "D": "oi galerinha"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual a cor da blusa da Rosana no gameplay Santa Kaos?",
+          "answers": {
+            "A": "Branca",
+            "B": "Rosa",
+            "C": "Vermelha",
+            "D": "Azul"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "O que o Denis e a Rosana comeram na gameplay de Scotland Yard?",
+          "answers": {
+            "A": "Ferrero Rocher",
+            "B": "Bis",
+            "C": "Sonho de valsa",
+            "D": "Kinder bueno"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "O que aconteceu no final do vídeo de unboxing de boom?",
+          "answers": {
+            "A": "Todas as peças caíram",
+            "B": "Não veio as peças",
+            "C": "Faltaram peças",
+            "D": "O jogo molhou"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual o vídeo com mais visualizações do canal?",
+          "answers": {
+            "A": "Super banco imobiliário",
+            "B": "Detetive",
+            "C": "Jogo da vida",
+            "D": "Monopoly"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quem ganhou a gameplay especial halloween?",
+          "answers": {
+            "A": "Os dois",
+            "B": "Rosana",
+            "C": "Denis",
+            "D": "Ninguém"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Quem ganhou a gameplay Scotland Yard?",
+          "answers": {
+            "A": "Denis",
+            "B": "Rosana",
+            "C": "Ninguém",
+            "D": "Os dois"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual o jogo favorito da Rosana no momento?",
+          "answers": {
+            "A": "Detetive",
+            "B": "A Iniciativa",
+            "C": "Scotland Yard",
+            "D": "Paranormal Detectives"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quais comidas tinha no vídeo de aniversário de 2 anos do canal?",
+          "answers": {
+            "A": "Taco, pastel, bolo",
+            "B": "Taco, pizza, bolo",
+            "C": "Taco, churros, pizza",
+            "D": "Taco, pastel, churros"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual a cor da blusa da Rosana no gameplay Master Entretenimento?",
+          "answers": {
+            "A": "Preta",
+            "B": "Branca",
+            "C": "Azul",
+            "D": "Roxa"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual foi o prêmio da gameplay enigma de Hogwarts?",
+          "answers": {
+            "A": "Chocolate Scooby Doo",
+            "B": "Chocolate Harry Potter",
+            "C": "Raffaello",
+            "D": "Chocolate Lacta"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quem ganhou a gameplay mansão mal assombrada?",
+          "answers": {
+            "A": "Rosana",
+            "B": "Denis",
+            "C": "Os monstros",
+            "D": "O fantasmão"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual jogo foi jogado no especial de halloween de 2023?",
+          "answers": {
+            "A": "Mansão mal assombrada",
+            "B": "Paranormal Detectives",
+            "C": "A Iniciativa",
+            "D": "Senhor Malvadeza"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quem ganhou na gameplay tote monstros?",
+          "answers": {
+            "A": "Denis",
+            "B": "Rosana",
+            "C": "Os dois",
+            "D": "Ninguém"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quem ganhou a gameplay Enigma de Hogwarts?",
+          "answers": {
+            "A": "Denis",
+            "B": "Rosana",
+            "C": "Os dois",
+            "D": "Ninguém"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quais jogos a Rosana indica no vídeo 5 jogos para se divertir?",
+          "answers": {
+            "A": "Uno stacko, diga 5, taco gato, color addict, bandido",
+            "B": "Uno stacko, diga 5, taco gato, color addict, dobble",
+            "C": "Uno stacko, diga 5, taco gato, color addict, timeline",
+            "D": "Uno stacko, diga 5, taco gato, color addict, humph"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quantos anos o Qual é a Jogada está fazendo nesse ano de 2024?",
+          "answers": {
+            "A": "2",
+            "B": "3",
+            "C": "1",
+            "D": "4"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual a cor da blusa da Rosana no gameplay Roubo no museu?",
+          "answers": {
+            "A": "Branca",
+            "B": "Preta",
+            "C": "Azul",
+            "D": "Roxa"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual foi o prêmio da gameplay Roubo no museu?",
+          "answers": {
+            "A": "Paçoca de amendoim e pipoca de milho",
+            "B": "Paçoca de pamonha e pipoca de barbecue",
+            "C": "Paçoca de capuccino e pipoca de manteiga",
+            "D": "Paçoca de coco e pipoca de ninho"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual foi o primeiro jogo do canal?",
+          "answers": {
+            "A": "Dixit",
+            "B": "Ticket to ride",
+            "C": "War",
+            "D": "Paranormal Detectives"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quem ganhou a game play scooby doo?",
+          "answers": {
+            "A": "Rosana",
+            "B": "Os dois",
+            "C": "Denis",
+            "D": "Monstros"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quem ganhou a gameplay Roubo no museu?",
+          "answers": {
+            "A": "Denis",
+            "B": "Rosana",
+            "C": "Os dois",
+            "D": "Ninguém"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Quais são os prêmios das gameplays do Qual é a Jogada?",
+          "answers": {
+            "A": "Objetos personalizados",
+            "B": "Jogos",
+            "C": "Comida",
+            "D": "Dinheiro"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual a cor da blusa da Rosana no gameplay Chaves Confusões na vila?",
+          "answers": {
+            "A": "Branca",
+            "B": "Azul",
+            "C": "Preta",
+            "D": "Roxa"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual foi o prêmio da gameplay tote monstros?",
+          "answers": {
+            "A": "Cracker Power",
+            "B": "Cracker Better",
+            "C": "Cracker Monster",
+            "D": "Cracker Pop"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual o nome do jogo que parece um miojo que tem no canal?",
+          "answers": {
+            "A": "Fury Ramen",
+            "B": "Ramen Lamen",
+            "C": "Ramen Fury",
+            "D": "Lamen Fury"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Quem ganhou a gameplay em Santa Kaos?",
+          "answers": {
+            "A": "Rosana",
+            "B": "Os dois",
+            "C": "Denis",
+            "D": "Os duendes"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Que gosto tinha a pipoca na gameplay roubo no museu?",
+          "answers": {
+            "A": "Manteiga",
+            "B": "Queijo",
+            "C": "Bacon",
+            "D": "Barata"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Quem ganhou a gameplay chaves confusões na vila?",
+          "answers": {
+            "A": "Rosana",
+            "B": "A gentalha",
+            "C": "Denis",
+            "D": "Os dois"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual é o objetivo principal do jogo de tabuleiro 'Catan'?",
+          "answers": {
+            "A": "Coletar a maior quantidade de dinheiro",
+            "B": "Capturar territórios inimigos",
+            "C": "Construir e desenvolver colônias e estradas",
+            "D": "Resolver enigmas misteriosos"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores assumem o papel de detetives tentando resolver um assassinato?",
+          "answers": {
+            "A": "Monopoly",
+            "B": "Carcassonne",
+            "C": "Clue (Detetive)",
+            "D": "Risk"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual é o nome do jogo de tabuleiro onde os jogadores usam cartas para construir rotas ferroviárias?",
+          "answers": {
+            "A": "Scrabble",
+            "B": "Pandemic",
+            "C": "Ticket to Ride",
+            "D": "Dixit"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual jogo de tabuleiro é ambientado no universo de fantasia de J.R.R. Tolkien e envolve viagens pela Terra Média?",
+          "answers": {
+            "A": "Zombicide",
+            "B": "Clank!",
+            "C": "Senhor dos Anéis: Jornadas na Terra Média",
+            "D": "Gloomhaven"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual jogo de tabuleiro envolve a exploração de uma ilha desconhecida em busca de tesouros e recursos?",
+          "answers": {
+            "A": "Banco Imobiliário",
+            "B": "Twister",
+            "C": "Ilha Proibida",
+            "D": "Uno"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual é o objetivo principal do jogo de tabuleiro 'Scythe'?",
+          "answers": {
+            "A": "Coletar tesouros em uma ilha deserta",
+            "B": "Criar poções mágicas para salvar o reino",
+            "C": "Resolver enigmas para escapar de uma mansão assombrada",
+            "D": "Conquistar território e recursos para se tornar a nação mais poderosa"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é o nome do jogo de tabuleiro onde os jogadores competem para se tornarem o maior comerciante da cidade de Constantinopla?",
+          "answers": {
+            "A": "Jenga",
+            "B": "Banco Imobiliário",
+            "C": "Uno",
+            "D": "Istanbul"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores tentam construir a melhor cidade medieval ao acumular pontos de vitória?",
+          "answers": {
+            "A": "Twister",
+            "B": "Scrabble",
+            "C": "Risk",
+            "D": "Carcassonne"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual jogo de tabuleiro envolve a construção de um reino medieval utilizando peças poligonais?",
+          "answers": {
+            "A": "Scrabble",
+            "B": "Uno",
+            "C": "Risk",
+            "D": "Kingdomino"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores devem negociar e colonizar uma ilha tropical fictícia?",
+          "answers": {
+            "A": "Banco Imobiliário",
+            "B": "Jenga",
+            "C": "Catan",
+            "D": "Puerto Rico"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é o nome do jogo de tabuleiro onde os jogadores devem montar uma equipe de aventureiros e explorar uma masmorra cheia de monstros?",
+          "answers": {
+            "A": "Taboo",
+            "B": "Clank!",
+            "C": "Gloomhaven",
+            "D": "DungeonQuest"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores tentam conquistar territórios e recursos para se tornarem a civilização dominante?",
+          "answers": {
+            "A": "Monopoly",
+            "B": "Pandemic",
+            "C": "Uno",
+            "D": "Terraforming Mars"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é o objetivo do jogo de tabuleiro 'Pandemic'?",
+          "answers": {
+            "A": "Construir propriedades e hotéis",
+            "B": "Completar missões secretas",
+            "C": "Desenvolver uma civilização",
+            "D": "Cooperativamente curar doenças e salvar o mundo"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é o nome do jogo de tabuleiro onde os jogadores devem coletar recursos, construir estradas e cidades para expandir seus impérios?",
+          "answers": {
+            "A": "Monopoly",
+            "B": "Twister",
+            "C": "Dixit",
+            "D": "Catan"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual jogo de tabuleiro envolve a estratégia de conquistar territórios e continentes?",
+          "answers": {
+            "A": "Monopoly",
+            "B": "Scrabble",
+            "C": "Uno",
+            "D": "Risk"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores tentam adivinhar palavras com base em pistas?",
+          "answers": {
+            "A": "Dixit",
+            "B": "Codenames",
+            "C": "Scattergories",
+            "D": "Taboo"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual jogo de tabuleiro desafia os jogadores a construir e gerenciar uma cidade medieval?",
+          "answers": {
+            "A": "Catan",
+            "B": "Ticket to Ride",
+            "C": "Dominion",
+            "D": "Carcassonne"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores devem construir rotas de trem através de diferentes cidades e países?",
+          "answers": {
+            "A": "Pandemic",
+            "B": "Terraforming Mars",
+            "C": "Scythe",
+            "D": "Ticket to Ride"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual jogo de tabuleiro é conhecido por ser uma versão estratégica e simplificada de xadrez?",
+          "answers": {
+            "A": "Hive",
+            "B": "Backgammon",
+            "C": "Go",
+            "D": "Mancala"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Em qual jogo de tabuleiro os jogadores devem cooperar para curar doenças e salvar a humanidade?",
+          "answers": {
+            "A": "Pandemic",
+            "B": "Uno",
+            "C": "Monopoly",
+            "D": "Jenga"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores tentam escapar de uma ilha antes que ela afunde?",
+          "answers": {
+            "A": "Forbidden Island",
+            "B": "Xadrez",
+            "C": "Banco Imobiliário",
+            "D": "Batalha Naval"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual jogo de tabuleiro é conhecido por simular a experiência de construir e gerenciar uma fazenda?",
+          "answers": {
+            "A": "Agricola",
+            "B": "Clue",
+            "C": "Uno",
+            "D": "Jenga"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual jogo de tabuleiro simula a gestão de uma prisão, onde os jogadores tentam construir e manter uma penitenciária?",
+          "answers": {
+            "A": "Prison Architect",
+            "B": "Catan",
+            "C": "Dixit",
+            "D": "Ticket to Ride"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores devem escolher habilidades para seu personagem e explorar uma cidade subterrânea?",
+          "answers": {
+            "A": "Monopoly",
+            "B": "Gloomhaven",
+            "C": "Carcassonne",
+            "D": "Pandemic"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o nome do jogo de tabuleiro onde os jogadores competem para construir a melhor malha ferroviária?",
+          "answers": {
+            "A": "Dominion",
+            "B": "Railways of the World",
+            "C": "Uno",
+            "D": "Risk"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores tentam construir e gerenciar uma estação espacial?",
+          "answers": {
+            "A": "Scrabble",
+            "B": "Terraforming Mars",
+            "C": "Clue",
+            "D": "Kingdomino"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o objetivo principal do jogo de tabuleiro 'Dominion'?",
+          "answers": {
+            "A": "Construir propriedades e hotéis",
+            "B": "Adquirir a maior quantidade de territórios e pontos de vitória",
+            "C": "Coletar tesouros em uma ilha deserta",
+            "D": "Resolver enigmas para escapar de uma mansão assombrada"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores devem construir rotas comerciais e mercados para se tornarem os maiores comerciantes?",
+          "answers": {
+            "A": "Banco Imobiliário",
+            "B": "Five Tribes",
+            "C": "Forbidden Island",
+            "D": "Dixit"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o objetivo do jogo de tabuleiro 'Dead of Winter'?",
+          "answers": {
+            "A": "Coletar a maior quantidade de dinheiro",
+            "B": "Sobreviver aos perigos em um mundo pós-apocalíptico",
+            "C": "Capturar territórios inimigos",
+            "D": "Resolver enigmas misteriosos"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o nome do jogo de tabuleiro onde os jogadores devem competir para construir o melhor jardim japonês?",
+          "answers": {
+            "A": "Scrabble",
+            "B": "Tokaido",
+            "C": "Risk",
+            "D": "Clank!"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual jogo de tabuleiro envolve a exploração de uma ilha misteriosa, buscando tesouros escondidos?",
+          "answers": {
+            "A": "Catan",
+            "B": "Robinson Crusoe: Adventures on the Cursed Island",
+            "C": "Uno",
+            "D": "Ticket to Ride"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o objetivo do jogo de tabuleiro 'Terraforming Mars'?",
+          "answers": {
+            "A": "Coletar a maior quantidade de dinheiro",
+            "B": "Transformar Marte em um planeta habitável",
+            "C": "Capturar territórios inimigos",
+            "D": "Resolver enigmas misteriosos"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores controlam facções rivais lutando pelo controle de um reino fantástico?",
+          "answers": {
+            "A": "Clue",
+            "B": "Root",
+            "C": "Monopoly",
+            "D": "Catan"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual é o objetivo principal do jogo de tabuleiro 'Tokaido'?",
+          "answers": {
+            "A": "Coletar a maior quantidade de dinheiro",
+            "B": "Capturar territórios inimigos",
+            "C": "Fazer a jornada mais harmoniosa possível, visitando pontos turísticos e interagindo com personagens",
+            "D": "Resolver enigmas misteriosos"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual jogo de tabuleiro simula a experiência de explorar uma cidade subterrânea e lutar contra monstros e perigos?",
+          "answers": {
+            "A": "Dominion",
+            "B": "Ticket to Ride",
+            "C": "Gloomhaven",
+            "D": "Catan"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores devem administrar uma loja de poções mágicas em uma cidade medieval?",
+          "answers": {
+            "A": "Scrabble",
+            "B": "Monopoly",
+            "C": "Quacks of Quedlinburg",
+            "D": "Uno"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Em que jogo de tabuleiro os jogadores devem competir para criar a melhor e mais lucrativa vinícola?",
+          "answers": {
+            "A": "Dominion",
+            "B": "Clank!",
+            "C": "Viticulture",
+            "D": "Dixit"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual jogo de tabuleiro simula a experiência de comandar uma expedição de descobrimento em uma ilha desconhecida?",
+          "answers": {
+            "A": "Terraforming Mars",
+            "B": "Uno",
+            "C": "Discoveries: The Journals of Lewis & Clark",
+            "D": "Ticket to Ride"
+          },
+          "correctAnswer": "C"
         }
       ]
     },
-    {}
+    {
+
+    }
   ]
 }
