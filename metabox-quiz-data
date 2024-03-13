@@ -956,6 +956,91 @@
       ]
     },
     {
+      "type": "aisummit2024-quiz",
+      "questions": [
+        {
+          "question": "Como a NeuraPartner, com o uso da Inteligência Artificial, pode acelerar sua empresa?",
+          "answers": {
+            "A": "Com soluções de IA feitas sob medida",
+            "B": "Com produtos de Inteligência Artificial",
+            "C": "TODAS AS OPÇÕES",
+            "D": "Com consultorias, palestras e workshops de IA"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual é a melhor abordagem para a organização em relação à estrutura de segurança dos dados ao utilizar modelos de IA?",
+          "answers": {
+            "A": "Uso de Plataformas Públicas",
+            "B": "Uso de Plataformas Privadas",
+            "C": "Nenhuma abordagem",
+            "D": "Não usar IA"
+          },
+          "correctAnswer": "B"
+        },
+        {
+          "question": "Qual a proposta de valor central da Assespro-RJ?",
+          "answers": {
+            "A": "Prosperidade para o Mundo",
+            "B": "Conexão com Tecnologias",
+            "C": "Conexão com Mercado e Prosperidade para Associados",
+            "D": "Nenhuma das anteriores"
+          },
+          "correctAnswer": "C"
+        },
+        {
+          "question": "Qual o nome da empresa líder em IA Generativa?",
+          "answers": {
+            "A": "Vilaz",
+            "B": "Vernum",
+            "C": "Vatus",
+            "D": "Versatus"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Você acredita que a sua empresa está atualmente explorando ou planeja explorar soluções tecnológicas de inteligência artificial nos próximos anos?",
+          "answers": {
+            "A": "Sim e quero explorar mais",
+            "B": "Não",
+            "C": "Não sei responder",
+            "D": "Não planejo explorar"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual o melhor custo-benefício para se usar o GPT atualmente em projetos corporativos?",
+          "answers": {
+            "A": "Embedding",
+            "B": "Direto no site",
+            "C": "Não usar o GPT",
+            "D": "Nenhuma das anteriores"
+          },
+          "correctAnswer": "A"
+        },
+        {
+          "question": "Qual principal objetivo da Q13?",
+          "answers": {
+            "A": "Ter apensa uma solução de IA",
+            "B": "Ensinar a usar o ChatGPT",
+            "C": "Nenhuma das anteriores",
+            "D": "Ser uma integradora de soluções em tecnologia"
+          },
+          "correctAnswer": "D"
+        },
+        {
+          "question": "Qual é a proposta de valor da Metabox AR?",
+          "answers": {
+            "A": "Gear diversão apenas",
+            "B": "Gerar engajamento e trazer leads qualificados",
+            "C": "Ser apenas um jogo",
+            "D": "Nenhuma das anteriores"
+          },
+          "correctAnswer": "B"
+        },
+      ]
+    },
+    {
       "type": "radisson_hotel",
       "questions":  [ 
         {
