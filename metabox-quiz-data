@@ -1009,7 +1009,7 @@
           "correctAnswer": "A"
         },
         {
-          "question": "Qual o melhor custo-benefício para se usar o GPT atualmente em projetos corporativos?",
+          "question": "Qual a abordagem com melhor custo-benefício para se usar o GPT atualmente em projetos corporativos?",
           "answers": {
             "A": "Embedding",
             "B": "Direto no site",
